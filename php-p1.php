@@ -14,7 +14,8 @@ function myArr(){
       $flag = 100;
       foreach ($data as $key => $value) {
         if($flag == "100"){
-          echo "key: $key ---- value: $value <br>";
+          echo "key: $key <br>";
+
         }
       }
   };
