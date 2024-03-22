@@ -19,9 +19,6 @@ function myArr(){
         }
       }
   };
-  $data_2 = [1, 2, "hello", "Viet Nam", myArr()];
-  $data_2[4];
-  var_dump($data_2);
 ?>
      </body>
 </html>
