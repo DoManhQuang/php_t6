@@ -6,8 +6,7 @@
 function myArr(){
 	  $data = [
         "Ha Noi"=>"Viet Nam", 
-        "HaUI"=>"Đại Học Công Nghiệp Hà Nội", 
-        "Dragon"=>2024
+        "Dragon"=>1010
     ];
       $flag = 100;
       foreach ($data as $key => $value) {
